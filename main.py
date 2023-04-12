@@ -10,4 +10,4 @@ print(34543)
 
 print('jake')
 
-print('beka')
+print('bekjan')
